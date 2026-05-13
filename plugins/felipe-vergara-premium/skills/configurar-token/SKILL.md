@@ -25,6 +25,9 @@ Dile exactamente esto:
 ¡Hola! 👋 Voy a activar tu acceso a las skills premium en 30 segundos.
 
 Pega tu código de acceso (empieza con "fv_"). Lo recibiste en el formulario.
+
+¿No lo tienes a la mano? Sácalo aquí en 1 min:
+→ https://felipevergara.co/formulario/
 ```
 
 Espera a que lo pegue.
@@ -38,6 +41,8 @@ Dile con tono casual (sin tabla de errores ni nada técnico):
 ```
 Mmm, ese no parece el código completo. Debe empezar con "fv_"
 y tener varios caracteres. ¿Puedes copiarlo otra vez del formulario?
+
+→ https://felipevergara.co/formulario/
 
 (Tip: en el form hay un botón de "Copiar" que lo deja perfecto en el portapapeles.)
 ```
