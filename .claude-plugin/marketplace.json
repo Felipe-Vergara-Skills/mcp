@@ -1,4 +1,5 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "felipe-vergara-premium-test",
   "description": "[TEST] Marketplace de Felipe Vergara con stubs hacia MCP premium",
   "owner": {
