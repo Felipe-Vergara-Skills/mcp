@@ -1,0 +1,20 @@
+{
+  "name": "felipe-vergara-premium-test",
+  "interface": {
+    "displayName": "[TEST] Felipe Vergara Premium"
+  },
+  "plugins": [
+    {
+      "name": "felipe-vergara-premium",
+      "source": {
+        "source": "local",
+        "path": "./plugins/felipe-vergara-premium"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "felipe-vergara-premium-test",
+  "description": "[TEST] Marketplace de Felipe Vergara con stubs hacia MCP premium",
+  "owner": {
+    "name": "Felipe Vergara"
+  },
+  "plugins": [
+    {
+      "name": "felipe-vergara-premium",
+      "description": "Skills premium del curso de Felipe Vergara — servidas vía MCP con licencia",
+      "source": "./plugins/felipe-vergara-premium",
+      "category": "productivity"
+    }
+  ]
+}
