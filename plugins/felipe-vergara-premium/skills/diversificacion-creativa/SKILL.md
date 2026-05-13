@@ -1,18 +1,17 @@
 ---
-name: crear-campana
+name: diversificacion-creativa
 description: >
-  Guía paso a paso para crear una campaña de Meta Ads completa desde cero usando la
-  metodología de Felipe Vergara. Cubre ADN de marca, investigación de mercado (7 maletas),
-  mapa de consciencia, hooks, presupuesto, estructura de campañas y nomenclatura. Úsala
-  cuando el alumno diga cosas como "crea una campaña para mi negocio", "ayúdame a lanzar
-  ads en Meta", "quiero arrancar de cero con publicidad en Facebook/Instagram", "necesito
-  una estrategia completa de Meta Ads", "haz una campaña para [URL del negocio]", o
-  cuando esté empezando y no sepa por dónde comenzar. También dispárala si pega una URL
-  de su sitio o tienda y dice "quiero anunciarme".
-allowed-tools: mcp__playwright__browser_navigate mcp__playwright__browser_click mcp__playwright__browser_type mcp__playwright__browser_scroll mcp__playwright__browser_snapshot mcp__playwright__browser_take_screenshot Read Write
+  Genera hooks y prompts de anuncios listos para usar en Meta Ads usando los 16 Deseos de Reiss
+  y los 5 Niveles de Consciencia. Úsalo SIEMPRE que el alumno quiera ideas para anuncios, no sepa
+  qué decir en sus creativos, sienta que sus anuncios se parecen demasiado entre sí, quiera
+  diversificar sus creativos, mencione hooks, copies, textos de anuncios, ideas para Facebook o
+  Instagram Ads, o cuando sus campañas hayan bajado de rendimiento por falta de variedad creativa.
+  También úsalo cuando mencione la metodología de diversificación creativa, los deseos de Reiss,
+  niveles de consciencia aplicados a anuncios, o pida una matriz de anuncios.
+allowed-tools: mcp__plugin_felipe-vergara-plugin_playwright__browser_navigate mcp__plugin_felipe-vergara-plugin_playwright__browser_click mcp__plugin_felipe-vergara-plugin_playwright__browser_type mcp__plugin_felipe-vergara-plugin_playwright__browser_scroll mcp__plugin_felipe-vergara-plugin_playwright__browser_snapshot mcp__plugin_felipe-vergara-plugin_playwright__browser_take_screenshot Read Write
 ---
 
-# crear-campana (Premium — entregada vía MCP)
+# diversificacion-creativa (Premium — entregada vía MCP)
 
 Esta skill es **premium**. Las instrucciones reales viven en el servidor MCP `felipe-premium` para proteger la metodología propietaria del curso.
 
@@ -28,7 +27,7 @@ Corre `/mcp` y confirma que `felipe-premium` aparezca como `connected`. Si no:
 ### 2. Llama al tool `run_playbook` del MCP `felipe-premium`
 
 Argumentos exactos:
-- `skillId`: `"crear-campana"`
+- `skillId`: `"diversificacion-creativa"`
 - `goal`: el pedido textual del alumno (verbatim, sin reescribir)
 
 ### 3. Ejecuta las instrucciones que devuelve el MCP

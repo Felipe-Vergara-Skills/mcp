@@ -1,18 +1,15 @@
 ---
-name: crear-campana
+name: excel-de-estrategia
 description: >
-  Guía paso a paso para crear una campaña de Meta Ads completa desde cero usando la
-  metodología de Felipe Vergara. Cubre ADN de marca, investigación de mercado (7 maletas),
-  mapa de consciencia, hooks, presupuesto, estructura de campañas y nomenclatura. Úsala
-  cuando el alumno diga cosas como "crea una campaña para mi negocio", "ayúdame a lanzar
-  ads en Meta", "quiero arrancar de cero con publicidad en Facebook/Instagram", "necesito
-  una estrategia completa de Meta Ads", "haz una campaña para [URL del negocio]", o
-  cuando esté empezando y no sepa por dónde comenzar. También dispárala si pega una URL
-  de su sitio o tienda y dice "quiero anunciarme".
-allowed-tools: mcp__playwright__browser_navigate mcp__playwright__browser_click mcp__playwright__browser_type mcp__playwright__browser_scroll mcp__playwright__browser_snapshot mcp__playwright__browser_take_screenshot Read Write
+  Genera la estrategia completa de campañas de Meta Ads según la metodología de Felipe Vergara.
+  Crea la estructura de campañas (Presentación, Evaluación, Conversión, Ascensión) con todos los
+  parámetros: objetivo, presupuestos, conjuntos de anuncios, públicos, exclusiones y ubicaciones.
+  Úsalo cuando el alumno quiera armar su estrategia de Facebook e Instagram Ads, no sepa cómo
+  distribuir su presupuesto, quiera saber cuántas campañas crear, qué audiencias usar, o quiera
+  replicar el Excel de estrategia de Felipe Vergara.
 ---
 
-# crear-campana (Premium — entregada vía MCP)
+# excel-de-estrategia (Premium — entregada vía MCP)
 
 Esta skill es **premium**. Las instrucciones reales viven en el servidor MCP `felipe-premium` para proteger la metodología propietaria del curso.
 
@@ -28,7 +25,7 @@ Corre `/mcp` y confirma que `felipe-premium` aparezca como `connected`. Si no:
 ### 2. Llama al tool `run_playbook` del MCP `felipe-premium`
 
 Argumentos exactos:
-- `skillId`: `"crear-campana"`
+- `skillId`: `"excel-de-estrategia"`
 - `goal`: el pedido textual del alumno (verbatim, sin reescribir)
 
 ### 3. Ejecuta las instrucciones que devuelve el MCP

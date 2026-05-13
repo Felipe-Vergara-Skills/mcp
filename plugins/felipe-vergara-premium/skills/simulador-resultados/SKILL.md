@@ -1,18 +1,22 @@
 ---
-name: crear-campana
+name: simulador-resultados
 description: >
-  Guía paso a paso para crear una campaña de Meta Ads completa desde cero usando la
-  metodología de Felipe Vergara. Cubre ADN de marca, investigación de mercado (7 maletas),
-  mapa de consciencia, hooks, presupuesto, estructura de campañas y nomenclatura. Úsala
-  cuando el alumno diga cosas como "crea una campaña para mi negocio", "ayúdame a lanzar
-  ads en Meta", "quiero arrancar de cero con publicidad en Facebook/Instagram", "necesito
-  una estrategia completa de Meta Ads", "haz una campaña para [URL del negocio]", o
-  cuando esté empezando y no sepa por dónde comenzar. También dispárala si pega una URL
-  de su sitio o tienda y dice "quiero anunciarme".
-allowed-tools: mcp__playwright__browser_navigate mcp__playwright__browser_click mcp__playwright__browser_type mcp__playwright__browser_scroll mcp__playwright__browser_snapshot mcp__playwright__browser_take_screenshot Read Write
+  Simulador de campañas de Meta Ads — predice resultados (impresiones, alcance, clics, conversaciones,
+  leads, compras, thruplays, costo por resultado, ROAS) a partir de un presupuesto y métricas esperadas.
+  Cubre los 5 modos del Excel del simulador de Felipe: Conversaciones, Compras (sitio web), Clientes
+  Potenciales de Meta, Clientes Potenciales en sitio web, y Alcance/Thruplays. Genera 3 escenarios
+  automáticos (conservador / moderado / optimista) y, si existe un reporte previo de
+  /calculadora-de-presupuestos en el directorio, compara los resultados simulados contra el costo
+  objetivo o ROAS objetivo. SIEMPRE usa este skill cuando el usuario mencione: simulador, simular
+  resultados, predecir resultados, cuántas conversaciones/leads/compras/thruplays voy a sacar,
+  proyección de campaña, escenarios optimista/conservador, costo por compra estimado, ROAS estimado,
+  qué resultados voy a tener si gasto X, cuánto rinde mi presupuesto. Es complementario a
+  /calculadora-de-presupuestos: la calculadora dice "cuánto gastar para cumplir mi meta", el
+  simulador dice "qué resultados tendré si gasto esto con estas métricas".
+allowed-tools: Read Write
 ---
 
-# crear-campana (Premium — entregada vía MCP)
+# simulador-resultados (Premium — entregada vía MCP)
 
 Esta skill es **premium**. Las instrucciones reales viven en el servidor MCP `felipe-premium` para proteger la metodología propietaria del curso.
 
@@ -28,7 +32,7 @@ Corre `/mcp` y confirma que `felipe-premium` aparezca como `connected`. Si no:
 ### 2. Llama al tool `run_playbook` del MCP `felipe-premium`
 
 Argumentos exactos:
-- `skillId`: `"crear-campana"`
+- `skillId`: `"simulador-resultados"`
 - `goal`: el pedido textual del alumno (verbatim, sin reescribir)
 
 ### 3. Ejecuta las instrucciones que devuelve el MCP

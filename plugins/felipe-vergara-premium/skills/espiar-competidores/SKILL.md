@@ -1,18 +1,20 @@
 ---
-name: crear-campana
+name: espiar-competidores
 description: >
-  Guía paso a paso para crear una campaña de Meta Ads completa desde cero usando la
-  metodología de Felipe Vergara. Cubre ADN de marca, investigación de mercado (7 maletas),
-  mapa de consciencia, hooks, presupuesto, estructura de campañas y nomenclatura. Úsala
-  cuando el alumno diga cosas como "crea una campaña para mi negocio", "ayúdame a lanzar
-  ads en Meta", "quiero arrancar de cero con publicidad en Facebook/Instagram", "necesito
-  una estrategia completa de Meta Ads", "haz una campaña para [URL del negocio]", o
-  cuando esté empezando y no sepa por dónde comenzar. También dispárala si pega una URL
-  de su sitio o tienda y dice "quiero anunciarme".
-allowed-tools: mcp__playwright__browser_navigate mcp__playwright__browser_click mcp__playwright__browser_type mcp__playwright__browser_scroll mcp__playwright__browser_snapshot mcp__playwright__browser_take_screenshot Read Write
+  Espía a los competidores de un negocio en Meta Ad Library + Instagram público + TikTok público.
+  El alumno solo pasa la URL de SU negocio — la skill detecta automáticamente la industria, busca
+  competidores en Google, los confirma con el alumno, y luego scrapea sus anuncios activos en Meta,
+  su perfil de IG y su perfil de TikTok. Genera un HTML con tabs por competidor: hooks detectados,
+  ángulos dominantes, niveles de consciencia (Eugene Schwartz), ofertas usadas, formato dominante
+  y tono orgánico. Standalone — no comparte estado con otras skills. SIEMPRE usa este skill cuando
+  el usuario mencione: espiar competidores, ad spy, biblioteca de anuncios, Meta Ad Library, qué
+  anuncios corren mis competidores, hooks de competidores, ofertas de competidores, copy de
+  competidores, análisis competitivo, inteligencia competitiva, qué hacen otras marcas, cómo
+  hablan otros en la categoría.
+allowed-tools: mcp__plugin_felipe-vergara-plugin_playwright__browser_navigate mcp__plugin_felipe-vergara-plugin_playwright__browser_click mcp__plugin_felipe-vergara-plugin_playwright__browser_type mcp__plugin_felipe-vergara-plugin_playwright__browser_scroll mcp__plugin_felipe-vergara-plugin_playwright__browser_snapshot mcp__plugin_felipe-vergara-plugin_playwright__browser_take_screenshot mcp__plugin_felipe-vergara-plugin_playwright__browser_evaluate mcp__plugin_felipe-vergara-plugin_playwright__browser_wait_for Read Write
 ---
 
-# crear-campana (Premium — entregada vía MCP)
+# espiar-competidores (Premium — entregada vía MCP)
 
 Esta skill es **premium**. Las instrucciones reales viven en el servidor MCP `felipe-premium` para proteger la metodología propietaria del curso.
 
@@ -28,7 +30,7 @@ Corre `/mcp` y confirma que `felipe-premium` aparezca como `connected`. Si no:
 ### 2. Llama al tool `run_playbook` del MCP `felipe-premium`
 
 Argumentos exactos:
-- `skillId`: `"crear-campana"`
+- `skillId`: `"espiar-competidores"`
 - `goal`: el pedido textual del alumno (verbatim, sin reescribir)
 
 ### 3. Ejecuta las instrucciones que devuelve el MCP

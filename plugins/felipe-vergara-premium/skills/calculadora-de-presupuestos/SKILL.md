@@ -1,18 +1,17 @@
 ---
-name: crear-campana
+name: calculadora-de-presupuestos
 description: >
-  Guía paso a paso para crear una campaña de Meta Ads completa desde cero usando la
-  metodología de Felipe Vergara. Cubre ADN de marca, investigación de mercado (7 maletas),
-  mapa de consciencia, hooks, presupuesto, estructura de campañas y nomenclatura. Úsala
-  cuando el alumno diga cosas como "crea una campaña para mi negocio", "ayúdame a lanzar
-  ads en Meta", "quiero arrancar de cero con publicidad en Facebook/Instagram", "necesito
-  una estrategia completa de Meta Ads", "haz una campaña para [URL del negocio]", o
-  cuando esté empezando y no sepa por dónde comenzar. También dispárala si pega una URL
-  de su sitio o tienda y dice "quiero anunciarme".
-allowed-tools: mcp__playwright__browser_navigate mcp__playwright__browser_click mcp__playwright__browser_type mcp__playwright__browser_scroll mcp__playwright__browser_snapshot mcp__playwright__browser_take_screenshot Read Write
+  Calcula el presupuesto exacto para campañas de Facebook e Instagram Ads y el ROAS objetivo
+  usando la calculadora de Felipe Vergara. Úsalo siempre que el usuario quiera saber cuánto
+  invertir en Meta Ads, cuál es su presupuesto para anuncios, cuánto necesita gastar en Facebook
+  o Instagram, cuál es su ROAS objetivo, cuál es su número mágico, costo por compra objetivo,
+  costo por lead objetivo, costo por conversación objetivo, o cuando diga que no sabe cuánto
+  presupuesto poner en sus campañas. También úsalo si menciona que quiere calcular su inversión
+  en publicidad, rentabilidad de sus anuncios, o cuánto puede pagar por un cliente — incluso si
+  no dice explícitamente "calculadora" o "presupuesto".
 ---
 
-# crear-campana (Premium — entregada vía MCP)
+# calculadora-de-presupuestos (Premium — entregada vía MCP)
 
 Esta skill es **premium**. Las instrucciones reales viven en el servidor MCP `felipe-premium` para proteger la metodología propietaria del curso.
 
@@ -28,7 +27,7 @@ Corre `/mcp` y confirma que `felipe-premium` aparezca como `connected`. Si no:
 ### 2. Llama al tool `run_playbook` del MCP `felipe-premium`
 
 Argumentos exactos:
-- `skillId`: `"crear-campana"`
+- `skillId`: `"calculadora-de-presupuestos"`
 - `goal`: el pedido textual del alumno (verbatim, sin reescribir)
 
 ### 3. Ejecuta las instrucciones que devuelve el MCP

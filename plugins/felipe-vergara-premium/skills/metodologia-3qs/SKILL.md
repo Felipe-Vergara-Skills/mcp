@@ -1,18 +1,21 @@
 ---
-name: crear-campana
+name: metodologia-3qs
 description: >
-  Guía paso a paso para crear una campaña de Meta Ads completa desde cero usando la
-  metodología de Felipe Vergara. Cubre ADN de marca, investigación de mercado (7 maletas),
-  mapa de consciencia, hooks, presupuesto, estructura de campañas y nomenclatura. Úsala
-  cuando el alumno diga cosas como "crea una campaña para mi negocio", "ayúdame a lanzar
-  ads en Meta", "quiero arrancar de cero con publicidad en Facebook/Instagram", "necesito
-  una estrategia completa de Meta Ads", "haz una campaña para [URL del negocio]", o
-  cuando esté empezando y no sepa por dónde comenzar. También dispárala si pega una URL
-  de su sitio o tienda y dice "quiero anunciarme".
-allowed-tools: mcp__playwright__browser_navigate mcp__playwright__browser_click mcp__playwright__browser_type mcp__playwright__browser_scroll mcp__playwright__browser_snapshot mcp__playwright__browser_take_screenshot Read Write
+  Analiza campañas de Facebook e Instagram Ads usando la metodología de las 3 Q's
+  de Felipe Vergara y un sistema de benchmarks semáforo (🔴/🟡/🟢). Trabajas con un
+  reporte exportado de Ads Manager (CSV o Excel) — sin conectarte a la Meta API.
+  Úsala SIEMPRE que el usuario quiera analizar o revisar campañas de Meta/Facebook/Instagram;
+  diagnosticar por qué una campaña no convierte; evaluar ROAS, CPL, CPM, CPC, CTR, frecuencia,
+  costo por conversación o costo por resultado; revisar adsets, anuncios o creativos; auditar
+  el embudo de ventas (impresiones → clics → landing → checkout → compra); detectar fatiga
+  de audiencia; recomendar qué pausar, escalar u optimizar. Actívala incluso si el usuario
+  no dice "Meta" explícitamente pero habla de Facebook Ads, Instagram Ads, Business Manager,
+  formularios instantáneos, campañas a WhatsApp, Advantage+, o píxel de Meta.
+  No usar para Google Ads, TikTok Ads, LinkedIn Ads, ni para crear campañas — solo análisis
+  y diagnóstico de campañas Meta existentes a partir del CSV/Excel exportado.
 ---
 
-# crear-campana (Premium — entregada vía MCP)
+# metodologia-3qs (Premium — entregada vía MCP)
 
 Esta skill es **premium**. Las instrucciones reales viven en el servidor MCP `felipe-premium` para proteger la metodología propietaria del curso.
 
@@ -28,7 +31,7 @@ Corre `/mcp` y confirma que `felipe-premium` aparezca como `connected`. Si no:
 ### 2. Llama al tool `run_playbook` del MCP `felipe-premium`
 
 Argumentos exactos:
-- `skillId`: `"crear-campana"`
+- `skillId`: `"metodologia-3qs"`
 - `goal`: el pedido textual del alumno (verbatim, sin reescribir)
 
 ### 3. Ejecuta las instrucciones que devuelve el MCP

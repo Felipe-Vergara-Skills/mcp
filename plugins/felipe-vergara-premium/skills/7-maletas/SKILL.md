@@ -1,18 +1,18 @@
 ---
-name: crear-campana
+name: 7-maletas
 description: >
-  Guía paso a paso para crear una campaña de Meta Ads completa desde cero usando la
-  metodología de Felipe Vergara. Cubre ADN de marca, investigación de mercado (7 maletas),
-  mapa de consciencia, hooks, presupuesto, estructura de campañas y nomenclatura. Úsala
-  cuando el alumno diga cosas como "crea una campaña para mi negocio", "ayúdame a lanzar
-  ads en Meta", "quiero arrancar de cero con publicidad en Facebook/Instagram", "necesito
-  una estrategia completa de Meta Ads", "haz una campaña para [URL del negocio]", o
-  cuando esté empezando y no sepa por dónde comenzar. También dispárala si pega una URL
-  de su sitio o tienda y dice "quiero anunciarme".
-allowed-tools: mcp__playwright__browser_navigate mcp__playwright__browser_click mcp__playwright__browser_type mcp__playwright__browser_scroll mcp__playwright__browser_snapshot mcp__playwright__browser_take_screenshot Read Write
+  Investiga automáticamente a tus clientes y mercado con las 7 Maletas de Cualquier Compra de Felipe Vergara.
+  Analiza tu negocio, competidores, reviews de Google/Amazon, redes sociales y anuncios para generar un reporte completo
+  de investigación de mercado listo para crear campañas publicitarias. SIEMPRE usa este skill cuando el usuario
+  mencione: investigación de mercado, 7 maletas, analizar mi negocio, entender clientes, por qué me compran,
+  buyer persona, investigar competidores, qué dicen mis clientes, análisis de mercado, crear buyer personas,
+  o cuando esté a punto de crear anuncios/campañas y necesite entender primero a su audiencia. También úsala
+  cuando el usuario quiera saber qué problemas resuelve su producto, qué diferenciales tiene, o cómo mejorar
+  su comunicación en web o anuncios.
+allowed-tools: mcp__plugin_felipe-vergara-plugin_playwright__browser_navigate mcp__plugin_felipe-vergara-plugin_playwright__browser_click mcp__plugin_felipe-vergara-plugin_playwright__browser_type mcp__plugin_felipe-vergara-plugin_playwright__browser_scroll mcp__plugin_felipe-vergara-plugin_playwright__browser_snapshot mcp__plugin_felipe-vergara-plugin_playwright__browser_take_screenshot Read Write
 ---
 
-# crear-campana (Premium — entregada vía MCP)
+# 7-maletas (Premium — entregada vía MCP)
 
 Esta skill es **premium**. Las instrucciones reales viven en el servidor MCP `felipe-premium` para proteger la metodología propietaria del curso.
 
@@ -28,7 +28,7 @@ Corre `/mcp` y confirma que `felipe-premium` aparezca como `connected`. Si no:
 ### 2. Llama al tool `run_playbook` del MCP `felipe-premium`
 
 Argumentos exactos:
-- `skillId`: `"crear-campana"`
+- `skillId`: `"7-maletas"`
 - `goal`: el pedido textual del alumno (verbatim, sin reescribir)
 
 ### 3. Ejecuta las instrucciones que devuelve el MCP
