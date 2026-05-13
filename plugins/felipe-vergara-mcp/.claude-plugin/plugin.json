@@ -1,0 +1,14 @@
+{
+  "name": "felipe-vergara-mcp",
+  "description": "Skills del curso de Felipe Vergara servidas vía MCP. Después de instalar, dile a Claude 'configura mi token' para activar las skills.",
+  "version": "0.3.0",
+  "author": {
+    "name": "Felipe Vergara"
+  },
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"]
+    }
+  }
+}

@@ -1,15 +1,15 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "felipe-vergara-premium-test",
-  "description": "[TEST] Marketplace de Felipe Vergara con stubs hacia MCP premium",
+  "name": "felipe-vergara-mcp",
+  "description": "Marketplace de Felipe Vergara — MCP con skills para Meta Ads",
   "owner": {
     "name": "Felipe Vergara"
   },
   "plugins": [
     {
-      "name": "felipe-vergara-premium",
-      "description": "Skills premium del curso de Felipe Vergara — servidas vía MCP con licencia",
-      "source": "./plugins/felipe-vergara-premium",
+      "name": "felipe-vergara-mcp",
+      "description": "Skills del curso de Felipe Vergara servidas vía MCP con licencia",
+      "source": "./plugins/felipe-vergara-mcp",
       "category": "productivity"
     }
   ]

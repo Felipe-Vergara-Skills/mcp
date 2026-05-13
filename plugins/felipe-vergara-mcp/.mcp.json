@@ -1,0 +1,13 @@
+{
+  "felipe-mcp": {
+    "type": "http",
+    "url": "https://premium-mcp-production.up.railway.app/mcp",
+    "headers": {
+      "Authorization": "Bearer ${FELIPE_MCP_TOKEN}"
+    }
+  },
+  "playwright": {
+    "command": "npx",
+    "args": ["@playwright/mcp@latest"]
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "name": "felipe-vergara-premium-test",
+  "name": "felipe-vergara-mcp",
   "interface": {
-    "displayName": "[TEST] Felipe Vergara Premium"
+    "displayName": "Felipe Vergara — MCP"
   },
   "plugins": [
     {
-      "name": "felipe-vergara-premium",
+      "name": "felipe-vergara-mcp",
       "source": {
         "source": "local",
-        "path": "./plugins/felipe-vergara-premium"
+        "path": "./plugins/felipe-vergara-mcp"
       },
       "policy": {
         "installation": "AVAILABLE",

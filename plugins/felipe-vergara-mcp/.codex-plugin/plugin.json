@@ -1,0 +1,16 @@
+{
+  "name": "felipe-vergara-mcp",
+  "version": "0.3.0",
+  "description": "Skills del curso de Felipe Vergara servidas vía MCP con licencia",
+  "author": {
+    "name": "Felipe Vergara"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Felipe Vergara — MCP",
+    "shortDescription": "Skills del curso vía MCP con licencia por token",
+    "category": "Productivity",
+    "brandColor": "#74fbfb"
+  }
+}
