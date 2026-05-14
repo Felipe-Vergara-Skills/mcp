@@ -5,7 +5,7 @@
   "author": {
     "name": "Felipe Vergara"
   },
-  "skills": "./skills/",
+  "skills": "./skills-codex/",
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Felipe Vergara — MCP",
