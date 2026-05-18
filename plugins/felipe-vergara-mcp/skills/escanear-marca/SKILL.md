@@ -1,18 +1,9 @@
 ---
 name: escanear-marca
 description: >
-  
-  Escanea automáticamente la web de una marca con Playwright para extraer su ADN: identidad visual
-  (colores, tipografía, estilo de imagery), tono y voz de marca, avatar de cliente con los 16 Deseos
-  de Reiss, nivel de consciencia dominante del copy, tipo de oferta, propuesta de valor, producto
-  y precio. Best-effort scrape de Instagram y TikTok públicos para sumar tono real. Genera un HTML
-  con el reporte completo y guarda `marca-cliente.json` para que las demás skills del plugin lo
-  reutilicen sin tener que volver a explicar la marca. SIEMPRE usa este skill cuando el usuario
-  mencione: escanear marca, ADN de marca, brand DNA, extraer marca, identidad de marca, perfil de
-  marca, analizar marca, voz de marca, tono de marca, colores de marca, paleta de marca, tipografía
-  de la marca, avatar del cliente, audiencia de la marca, propuesta de valor, o cuando esté arrancando
-  con un cliente nuevo y quiera mapear la marca antes de hacer ads.
+  Escanea la URL del negocio y extrae el ADN de marca: identidad visual, tono, avatar, propuesta de valor, nivel de consciencia dominante. Úsala cuando el alumno pegue la URL de su negocio o pida análisis de marca, brand DNA, escanear sitio.
 ---
+
 
 # escanear-marca
 

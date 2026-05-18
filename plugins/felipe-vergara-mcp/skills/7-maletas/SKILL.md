@@ -1,16 +1,9 @@
 ---
 name: 7-maletas
 description: >
-  
-  Investiga automáticamente a tus clientes y mercado con las 7 Maletas de Cualquier Compra de Felipe Vergara.
-  Analiza tu negocio, competidores, reviews de Google/Amazon, redes sociales y anuncios para generar un reporte completo
-  de investigación de mercado listo para crear campañas publicitarias. SIEMPRE usa este skill cuando el usuario
-  mencione: investigación de mercado, 7 maletas, analizar mi negocio, entender clientes, por qué me compran,
-  buyer persona, investigar competidores, qué dicen mis clientes, análisis de mercado, crear buyer personas,
-  o cuando esté a punto de crear anuncios/campañas y necesite entender primero a su audiencia. También úsala
-  cuando el usuario quiera saber qué problemas resuelve su producto, qué diferenciales tiene, o cómo mejorar
-  su comunicación en web o anuncios.
+  Investiga clientes, mercado y competidores con las 7 Maletas de Felipe Vergara. Genera reporte completo de research para campañas. Úsala cuando el alumno pida investigación de mercado, buyer persona, análisis de audiencia, entender clientes, qué dicen las reviews, o esté por crear anuncios.
 ---
+
 
 # 7-maletas
 

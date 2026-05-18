@@ -1,15 +1,10 @@
 ---
 name: configurar-token
 description: >
-  Activa el acceso al MCP de Felipe Vergara registrando el token de licencia del
-  alumno. Úsala cuando el alumno acabe de recibir su token (formato fv_...) o
-  cuando una skill no funcione todavía. Trigger por frases naturales como
-  "configura mi token", "activa mi MCP", "pega mi licencia", "activa el plugin de
-  felipe", "mi token es...", "ya tengo mi código", "no me funcionan las skills",
-  "necesito activar mi cuenta". También úsala proactivamente si una skill responde
-  401 "Missing/Invalid license token" o "Couldn't reach the MCP server".
+  Activa el acceso al MCP de Felipe Vergara registrando el token del alumno. Úsala cuando el alumno reciba su token (formato fv_), diga 'configura mi token', 'activa mi licencia', o cuando una skill premium no funcione todavía.
 allowed-tools: Bash
 ---
+
 
 # Activa tu acceso al MCP de Felipe Vergara
 

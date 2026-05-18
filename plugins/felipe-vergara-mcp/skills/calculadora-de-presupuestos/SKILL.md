@@ -1,16 +1,9 @@
 ---
 name: calculadora-de-presupuestos
 description: >
-  
-  Calcula el presupuesto exacto para campañas de Facebook e Instagram Ads y el ROAS objetivo
-  usando la calculadora de Felipe Vergara. Úsalo siempre que el usuario quiera saber cuánto
-  invertir en Meta Ads, cuál es su presupuesto para anuncios, cuánto necesita gastar en Facebook
-  o Instagram, cuál es su ROAS objetivo, cuál es su número mágico, costo por compra objetivo,
-  costo por lead objetivo, costo por conversación objetivo, o cuando diga que no sabe cuánto
-  presupuesto poner en sus campañas. También úsalo si menciona que quiere calcular su inversión
-  en publicidad, rentabilidad de sus anuncios, o cuánto puede pagar por un cliente — incluso si
-  no dice explícitamente "calculadora" o "presupuesto".
+  Calcula el presupuesto mensual exacto para una campaña de Meta Ads según meta de ventas, ticket, margen y % de conversión. Entrega ROAS objetivo y costo por resultado. Úsala cuando el alumno pregunte cuánto invertir, presupuesto, inversión mensual, ROAS objetivo.
 ---
+
 
 # calculadora-de-presupuestos
 

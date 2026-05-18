@@ -1,17 +1,9 @@
 ---
 name: niveles-de-consciencia
 description: >
-  
-  Diagnostica el nivel de consciencia del mercado y genera ad copy persuasivo + estrategia de campaña
-  para Facebook e Instagram Ads usando los 5 niveles de consciencia de Felipe Vergara.
-  SIEMPRE usa este skill cuando el usuario mencione: niveles de consciencia, copy para anuncios,
-  textos para ads, copywriting para Facebook o Instagram, textos persuasivos, mercado frío,
-  mercado caliente, tráfico frío, tráfico caliente, crear anuncios, escribir copy, texto para campaña,
-  ad copy, anuncio inconsciente, anuncio de problema, anuncio de solución, anuncio de producto,
-  anuncio de decisión, detectar nivel de consciencia, qué tipo de anuncio hacer, cómo hablarle
-  a mi mercado, o cuando quiera crear copy para sus campañas en Meta Ads.
-  También úsalo cuando el usuario ya tenga el reporte de /7-maletas y quiera pasar a crear anuncios.
+  Diagnostica el nivel de consciencia (Inconsciente, Problema, Solución, Producto, Decisión) de la audiencia. Úsala cuando el alumno pida nivel de consciencia, mapa de consciencia, dónde está mi audiencia, Eugene Schwartz.
 ---
+
 
 # niveles-de-consciencia
 

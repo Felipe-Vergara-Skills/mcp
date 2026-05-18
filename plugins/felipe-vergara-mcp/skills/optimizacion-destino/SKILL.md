@@ -1,17 +1,9 @@
 ---
 name: optimizacion-destino
 description: >
-  
-  Audita el destino real de los anuncios de Meta Ads (tienda online, formulario de leads,
-  WhatsApp o tienda física en Google Maps) navegándolo con Playwright y genera
-  recomendaciones específicas basadas en lo que encuentra (no genéricas).
-  Úsalo SOLO cuando el alumno la solicite explícitamente — diga que sus anuncios funcionan
-  pero no vende, que tiene muchos clics pero pocas compras, que su tasa de conversión es
-  baja, que recibe muchos mensajes pero no cierra ventas, que sus leads no son calificados,
-  o que quiere mejorar su página web, tienda online, formulario o proceso de ventas por
-  WhatsApp. NO se invoca automáticamente desde otras skills (incluido metodologia-3qs) —
-  solo cuando el alumno la pide.
+  Audita el destino del tráfico (web, WhatsApp, landing, form) y entrega mejoras concretas para subir conversión. Úsala cuando el alumno pida optimizar su web, mejorar landing, por qué no convierten, optimización de destino, fix de conversión.
 ---
+
 
 # optimizacion-destino
 

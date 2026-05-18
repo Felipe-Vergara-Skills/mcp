@@ -1,14 +1,9 @@
 ---
 name: excel-de-estrategia
 description: >
-  
-  Genera la estrategia completa de campañas de Meta Ads según la metodología de Felipe Vergara.
-  Crea la estructura de campañas (Presentación, Evaluación, Conversión, Ascensión) con todos los
-  parámetros: objetivo, presupuestos, conjuntos de anuncios, públicos, exclusiones y ubicaciones.
-  Úsalo cuando el alumno quiera armar su estrategia de Facebook e Instagram Ads, no sepa cómo
-  distribuir su presupuesto, quiera saber cuántas campañas crear, qué audiencias usar, o quiera
-  replicar el Excel de estrategia de Felipe Vergara.
+  Llena el Excel de estrategia de Felipe Vergara con la estructura literal de campañas, conjuntos, públicos y exclusiones por tipo de venta. Úsala cuando el alumno pida la estructura, excel de estrategia, cómo armar campañas, qué conjuntos hacer, plan de campañas Meta Ads.
 ---
+
 
 # excel-de-estrategia
 

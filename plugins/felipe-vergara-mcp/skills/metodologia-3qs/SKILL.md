@@ -1,20 +1,9 @@
 ---
 name: metodologia-3qs
 description: >
-  
-  Analiza campañas de Facebook e Instagram Ads usando la metodología de las 3 Q's
-  de Felipe Vergara y un sistema de benchmarks semáforo (🔴/🟡/🟢). Trabajas con un
-  reporte exportado de Ads Manager (CSV o Excel) — sin conectarte a la Meta API.
-  Úsala SIEMPRE que el usuario quiera analizar o revisar campañas de Meta/Facebook/Instagram;
-  diagnosticar por qué una campaña no convierte; evaluar ROAS, CPL, CPM, CPC, CTR, frecuencia,
-  costo por conversación o costo por resultado; revisar adsets, anuncios o creativos; auditar
-  el embudo de ventas (impresiones → clics → landing → checkout → compra); detectar fatiga
-  de audiencia; recomendar qué pausar, escalar u optimizar. Actívala incluso si el usuario
-  no dice "Meta" explícitamente pero habla de Facebook Ads, Instagram Ads, Business Manager,
-  formularios instantáneos, campañas a WhatsApp, Advantage+, o píxel de Meta.
-  No usar para Google Ads, TikTok Ads, LinkedIn Ads, ni para crear campañas — solo análisis
-  y diagnóstico de campañas Meta existentes a partir del CSV/Excel exportado.
+  Analiza campañas de Meta Ads con la metodología 3 Q's y benchmarks semáforo (rojo/amarillo/verde). Trabaja con CSV/Excel de Ads Manager. Úsala cuando el alumno pida analizar Meta/Facebook/Instagram Ads, diagnosticar por qué no convierte, evaluar ROAS/CPL/CPC/CTR/CPM, auditar el embudo, detectar fatiga.
 ---
+
 
 # metodologia-3qs
 

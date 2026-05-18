@@ -1,15 +1,9 @@
 ---
 name: diversificacion-creativa
 description: >
-  
-  Genera hooks y prompts de anuncios listos para usar en Meta Ads usando los 16 Deseos de Reiss
-  y los 5 Niveles de Consciencia. Úsalo SIEMPRE que el alumno quiera ideas para anuncios, no sepa
-  qué decir en sus creativos, sienta que sus anuncios se parecen demasiado entre sí, quiera
-  diversificar sus creativos, mencione hooks, copies, textos de anuncios, ideas para Facebook o
-  Instagram Ads, o cuando sus campañas hayan bajado de rendimiento por falta de variedad creativa.
-  También úsalo cuando mencione la metodología de diversificación creativa, los deseos de Reiss,
-  niveles de consciencia aplicados a anuncios, o pida una matriz de anuncios.
+  Genera 30 hooks creativos: matriz de 3 Deseos de Reiss × 2 perfiles × 5 niveles de consciencia, con ángulo DOLOR/GANANCIA. Úsala cuando el alumno pida hooks, ideas creativas, ángulos para ads, generar copy, diversificar mensajes.
 ---
+
 
 # diversificacion-creativa
 

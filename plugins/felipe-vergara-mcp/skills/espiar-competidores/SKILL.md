@@ -1,18 +1,9 @@
 ---
 name: espiar-competidores
 description: >
-  
-  Espía a los competidores de un negocio en Meta Ad Library + Instagram público + TikTok público.
-  El alumno solo pasa la URL de SU negocio — la skill detecta automáticamente la industria, busca
-  competidores en Google, los confirma con el alumno, y luego scrapea sus anuncios activos en Meta,
-  su perfil de IG y su perfil de TikTok. Genera un HTML con tabs por competidor: hooks detectados,
-  ángulos dominantes, niveles de consciencia (Eugene Schwartz), ofertas usadas, formato dominante
-  y tono orgánico. Standalone — no comparte estado con otras skills. SIEMPRE usa este skill cuando
-  el usuario mencione: espiar competidores, ad spy, biblioteca de anuncios, Meta Ad Library, qué
-  anuncios corren mis competidores, hooks de competidores, ofertas de competidores, copy de
-  competidores, análisis competitivo, inteligencia competitiva, qué hacen otras marcas, cómo
-  hablan otros en la categoría.
+  Investiga anuncios activos de competidores en Meta Ads Library: hooks, copys, formatos, patrones. Úsala cuando el alumno pida espiar competidores, ver qué anuncios corren, Ads Library, biblioteca de anuncios, qué hace la competencia.
 ---
+
 
 # espiar-competidores
 

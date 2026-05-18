@@ -1,15 +1,9 @@
 ---
 name: escalar-horizontal-vertical
 description: >
-  
-  Genera un plan de escalado para campañas de Meta Ads rentables: cuánto subir el presupuesto,
-  cada cuánto, y cómo diversificar con nuevos anuncios, públicos o campañas.
-  Úsalo SOLO cuando el alumno la solicite explícitamente — quiera escalar sus campañas, no
-  sepa cómo o cuánto subir el presupuesto, quiera invertir más en lo que ya le está
-  funcionando, pregunte por escalar vertical u horizontalmente, o diga que sus anuncios
-  van bien y quiere sacarles más provecho. NO se invoca automáticamente desde otras skills
-  (incluido metodologia-3qs) — solo cuando el alumno la pide.
+  Plan de escalamiento de campañas rentables (horizontal por audiencias o vertical por presupuesto). Úsala cuando el alumno pregunte cómo escalar, su campaña va bien, quiere gastar más, escalar horizontal o vertical.
 ---
+
 
 # escalar-horizontal-vertical
 

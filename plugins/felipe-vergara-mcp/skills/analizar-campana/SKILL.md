@@ -1,16 +1,9 @@
 ---
 name: analizar-campana
 description: >
-  
-  Analiza campañas activas de Meta Ads usando la metodología 3 Q's de Felipe Vergara.
-  Diagnostica el problema exacto (presupuesto, público, creativos o destino) y genera
-  un plan de acción concreto: optimizar o escalar. Úsalo cuando el alumno diga cosas
-  como "analiza mis campañas", "revisa cómo van mis anuncios", "no entiendo mis
-  resultados de Meta Ads", "mis campañas no rinden", "¿qué hago con mis campañas?",
-  "diagnostica mi cuenta de Ads", "aplícame las 3 Q's", o cuando pregunte si sus
-  campañas están bien o mal. También dispárala si el alumno sube un CSV exportado
-  de Ads Manager y pide revisión.
+  Diagnostica campañas activas de Meta Ads con metodología 3 Q's. Detecta el problema (presupuesto, público, creativos, destino) y entrega plan de acción. Úsala cuando el alumno pida revisar sus campañas, no entienda resultados, quiera saber qué pausar, escalar u optimizar.
 ---
+
 
 # analizar-campana
 

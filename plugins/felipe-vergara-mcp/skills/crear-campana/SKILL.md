@@ -1,16 +1,9 @@
 ---
 name: crear-campana
 description: >
-  
-  Guía paso a paso para crear una campaña de Meta Ads completa desde cero usando la
-  metodología de Felipe Vergara. Cubre ADN de marca, investigación de mercado (7 maletas),
-  mapa de consciencia, hooks, presupuesto, estructura de campañas y nomenclatura. Úsala
-  cuando el alumno diga cosas como "crea una campaña para mi negocio", "ayúdame a lanzar
-  ads en Meta", "quiero arrancar de cero con publicidad en Facebook/Instagram", "necesito
-  una estrategia completa de Meta Ads", "haz una campaña para [URL del negocio]", o
-  cuando esté empezando y no sepa por dónde comenzar. También dispárala si pega una URL
-  de su sitio o tienda y dice "quiero anunciarme".
+  Crea una campaña de Meta Ads completa desde cero: ADN de marca, 7 maletas, mapa de consciencia, hooks, presupuesto, estructura y nomenclatura. Úsala cuando el alumno diga 'crea una campaña', 'arranca de cero', 'estrategia Meta Ads', 'quiero anunciarme', o pegue la URL de su negocio pidiendo ads.
 ---
+
 
 # crear-campana
 

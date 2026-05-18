@@ -1,16 +1,9 @@
 ---
 name: generador-de-nombres
 description: >
-  
-  Genera nombres estandarizados para campañas, conjuntos de anuncios y anuncios de Facebook e
-  Instagram Ads usando la nomenclatura de Felipe Vergara. Úsalo siempre que el usuario quiera
-  nombrar campañas de Meta, crear nombres para sus ads, estandarizar nomenclatura de Facebook Ads,
-  generar el nombre de un conjunto de anuncios o anuncio, o cuando mencione que no sabe cómo
-  llamar su campaña, adset o anuncio en Ads Manager. También úsalo si el usuario dice "ponle nombre
-  a mi campaña", "cómo nombro esto en Meta", "nomenclatura para mis anuncios" o cualquier variante
-  de querer un nombre estructurado para sus elementos en Meta Ads Manager — incluso si no pide
-  explícitamente un "generador de nombres".
+  Genera la nomenclatura oficial de Felipe Vergara para campañas, conjuntos y anuncios. Úsala cuando el alumno pida nombres, nomenclatura, cómo nombrar campañas, naming convention.
 ---
+
 
 # generador-de-nombres
 

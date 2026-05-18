@@ -1,20 +1,9 @@
 ---
 name: simulador-resultados
 description: >
-  
-  Simulador de campañas de Meta Ads — predice resultados (impresiones, alcance, clics, conversaciones,
-  leads, compras, thruplays, costo por resultado, ROAS) a partir de un presupuesto y métricas esperadas.
-  Cubre los 5 modos del Excel del simulador de Felipe: Conversaciones, Compras (sitio web), Clientes
-  Potenciales de Meta, Clientes Potenciales en sitio web, y Alcance/Thruplays. Genera 3 escenarios
-  automáticos (conservador / moderado / optimista) y, si existe un reporte previo de
-  /calculadora-de-presupuestos en el directorio, compara los resultados simulados contra el costo
-  objetivo o ROAS objetivo. SIEMPRE usa este skill cuando el usuario mencione: simulador, simular
-  resultados, predecir resultados, cuántas conversaciones/leads/compras/thruplays voy a sacar,
-  proyección de campaña, escenarios optimista/conservador, costo por compra estimado, ROAS estimado,
-  qué resultados voy a tener si gasto X, cuánto rinde mi presupuesto. Es complementario a
-  /calculadora-de-presupuestos: la calculadora dice "cuánto gastar para cumplir mi meta", el
-  simulador dice "qué resultados tendré si gasto esto con estas métricas".
+  Simulador de Meta Ads: predice resultados (impresiones, leads, compras, ROAS) según presupuesto y métricas. 5 modos: Conversaciones, Compras, Leads Meta, Leads web, Alcance/Thruplays. Genera 3 escenarios (conservador/moderado/optimista). Úsala cuando el alumno pida simular, predecir o proyectar resultados.
 ---
+
 
 # simulador-resultados
 
