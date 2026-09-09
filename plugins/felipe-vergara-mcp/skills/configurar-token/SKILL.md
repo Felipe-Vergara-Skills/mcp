@@ -19,10 +19,11 @@ Dile exactamente esto:
 ```
 ¡Hola! 👋 Voy a activar tu acceso al MCP de Felipe Vergara en 30 segundos.
 
-Pega tu token de acceso (empieza con "fv_"). Lo recibiste en el formulario.
+Pega tu token de acceso (empieza con "fv_"). Lo encuentras en tu cuenta.
 
 ¿No lo tienes a la mano? Sácalo aquí en 1 min:
-→ https://felipevergara.co/formulario/
+→ https://cuenta.felipevergara.co
+(entra con tu email, te llega un código de 6 dígitos, y lo ves en "🔑 Tu token del MCP")
 ```
 
 Espera a que lo pegue.
@@ -35,11 +36,11 @@ Dile con tono casual (sin tabla de errores ni nada técnico):
 
 ```
 Mmm, ese no parece el token completo. Debe empezar con "fv_"
-y tener varios caracteres. ¿Puedes copiarlo otra vez del formulario?
+y tener varios caracteres. ¿Puedes copiarlo otra vez desde tu cuenta?
 
-→ https://felipevergara.co/formulario/
+→ https://cuenta.felipevergara.co (sección "🔑 Tu token del MCP")
 
-(Tip: en el form hay un botón de "Copiar" que lo deja perfecto en el portapapeles.)
+(Tip: ahí hay un botón de "Copiar" que lo deja perfecto en el portapapeles.)
 ```
 
 ---

@@ -8,9 +8,9 @@ Acceso al MCP de Felipe Vergara con las skills premium del curso para Meta Ads.
 
 ### Paso 1 — Generar tu token de acceso
 
-Entra a **https://felipevergara.co/formulario/** y llena el formulario con el email con el que pagaste el curso.
+Entra a **https://cuenta.felipevergara.co** con el email con el que pagaste el curso (te llega un código de 6 dígitos al correo).
 
-→ El form te entregará un token que empieza con `fv_…`. Cópialo (botón **Copiar**) y guárdalo bien — solo se muestra una vez.
+→ En tu cuenta, en la sección **🔑 Tu token del MCP**, está tu token que empieza con `fv_…`. Cópialo (botón **Copiar**) y guárdalo bien — se genera una sola vez.
 
 ### Paso 2 — Instalar el plugin
 
@@ -80,7 +80,7 @@ Una vez conectado, las 16 skills se disparan por lenguaje natural. Ejemplos:
 → Reinicia Claude Code completamente (Cmd+Q en Mac, salir de la app) y vuelve a abrir.
 
 **No tengo el token / lo perdí**
-→ Vuelve a llenar el formulario en https://felipevergara.co/formulario/ con el **mismo email**. El sistema te devolverá el mismo token (no genera uno nuevo).
+→ Entra a https://cuenta.felipevergara.co con el **mismo email** con el que pagaste: el token está siempre en la sección **🔑 Tu token del MCP** (es el mismo, no se genera uno nuevo).
 
 ---
 
