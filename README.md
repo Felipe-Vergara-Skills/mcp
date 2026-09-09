@@ -73,8 +73,8 @@ Una vez conectado, las 16 skills se disparan por lenguaje natural. Ejemplos:
 **"Couldn't reach the MCP server"** o **"Missing license token"**
 → Tu token no está registrado en este cliente. Repite el Paso 3 con tu token.
 
-**"License has expired" / "License is not active"**
-→ Tu acceso fue revocado. Contacta soporte.
+**"Este token ya no está activo" / "License is not active" / "License has expired"**
+→ Tu token fue renovado (o tu acceso venció). Entra a https://cuenta.felipevergara.co, copia tu token actual en **🔑 Tu token del MCP** y vuelve a conectar: en Claude Code dile a Claude *"configura mi token"*; en Claude Desktop / Cowork edita el conector y vuelve a autorizar con el token nuevo.
 
 **Las skills no se disparan automáticamente**
 → Reinicia Claude Code completamente (Cmd+Q en Mac, salir de la app) y vuelve a abrir.
