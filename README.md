@@ -51,7 +51,7 @@ La skill `configurar-token` te pide el token, lo registra y te avisa cuándo rei
 
 ## 🎯 Cómo usar las skills
 
-Una vez conectado, las 16 skills se disparan por lenguaje natural. Ejemplos:
+Una vez conectado, las 22 skills se disparan por lenguaje natural. Ejemplos:
 
 | Lo que dices | Skill que se activa |
 |---|---|
@@ -63,8 +63,10 @@ Una vez conectado, las 16 skills se disparan por lenguaje natural. Ejemplos:
 | *"diagnostica el nivel de consciencia"* | `niveles-de-consciencia` |
 | *"espiame los anuncios de competidores"* | `espiar-competidores` |
 | *"genera nombres para mis campañas"* | `generador-de-nombres` |
+| *"hazme una auditoría completa de mi cuenta"* | `auditoria-completa-meta-ads` |
+| *"analiza mis creativos, cuáles están fatigados"* | `analisis-creativo-fv` |
 
-…y 8 skills más. No tienes que memorizar nombres — habla natural y Claude detecta cuál usar.
+…y 12 skills más. No tienes que memorizar nombres — habla natural y Claude detecta cuál usar.
 
 ---
 
