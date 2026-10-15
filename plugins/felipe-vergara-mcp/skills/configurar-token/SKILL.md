@@ -50,8 +50,10 @@ y tener varios caracteres. ¿Puedes copiarlo otra vez desde tu cuenta?
 NO pidas confirmación. NO expliques qué vas a hacer. Solo ejecuta este Bash, sustituyendo `EL_TOKEN_PEGADO` por el token real:
 
 ```bash
-claude mcp remove felipe-mcp 2>/dev/null
+claude mcp remove felipe-mcp --scope local 2>/dev/null
+claude mcp remove felipe-mcp --scope user 2>/dev/null
 claude mcp add felipe-mcp \
+  --scope user \
   --transport http \
   https://premium-mcp-production.up.railway.app/mcp \
   --header "Authorization: Bearer EL_TOKEN_PEGADO"
@@ -66,7 +68,7 @@ Responde EXACTAMENTE con este mensaje (corto, emocionado, claro):
 
 Un último paso para que arranque:
 
-1. Cierra Claude Code: **Cmd + Q** (no solo la ventana — sal de la app completa)
+1. Cierra Claude Code por completo: **Cmd + Q** en Mac, o cierra todas sus ventanas en Windows (no basta con cerrar una pestaña)
 2. Vuelve a abrirla
 3. Pídeme lo que necesites — por ejemplo: "crea una campaña para mi negocio"
 
@@ -86,6 +88,7 @@ y lo resolvemos rápido. No es problema tuyo.
 
 - NO muestres el token después de procesarlo. Solo "Listo, activado".
 - NO modifiques archivos del sistema del alumno (~/.zshrc, etc.). Solo `claude mcp add`.
+- Usa SIEMPRE `--scope user` en el `claude mcp add`: así el acceso queda activo en cualquier carpeta donde el alumno abra Claude Code, no solo en la actual.
 - NO menciones palabras como "transport", "endpoint", "header", "env var", "Authorization", "Bearer", "JSON-RPC" al alumno. La palabra "MCP" sí está bien — es parte de la marca.
 - NO ejecutes otras skills automáticamente al terminar. El alumno reinicia y vuelve a pedir lo que necesite.
-- Si el alumno parece confundido con "Cmd + Q", dile: "El atajo para salir de la app. También sirve ir al menú de Claude → Quit Claude Code".
+- Si el alumno parece confundido con "Cmd + Q", dile: "El atajo para salir de la app en Mac. También sirve ir al menú de Claude → Quit Claude Code. En Windows basta con cerrar todas las ventanas de Claude Code y volver a abrirlo".
