@@ -55,7 +55,7 @@ claude mcp remove felipe-mcp --scope user 2>/dev/null
 claude mcp add felipe-mcp \
   --scope user \
   --transport http \
-  https://premium-mcp-production.up.railway.app/mcp \
+  https://mcp.felipevergara.co/mcp \
   --header "Authorization: Bearer EL_TOKEN_PEGADO"
 ```
 

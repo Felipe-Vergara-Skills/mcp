@@ -33,7 +33,7 @@ Tienes dos caminos según qué cliente uses:
 1. Ve a **Conectores → Agregar conector personalizado**
 2. URL del servidor:
    ```
-   https://premium-mcp-production.up.railway.app/mcp
+   https://mcp.felipevergara.co/mcp
    ```
 3. Click **Conectar**
 4. Se abre el navegador con un formulario de autorización — **pega tu token** y click **Autorizar**
